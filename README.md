@@ -48,11 +48,14 @@ python test_login.py
 
 ## 📸 Screenshots
 
-![Step1](screenshots/login_success.png)
-![Step2](screenshots/login_success1.png)
-![Step3](screenshots/login_success2.png)
+## 📸 Screenshots
+
+![Step1](login_success.png)
+![Step2](login_success2.png)
+![Step3](login_success3.png)
 ## ✅ Result
 
 The automation test executed successfully. Login and logout flow works correctly.
+
 
 
