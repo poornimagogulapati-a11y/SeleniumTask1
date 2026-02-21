@@ -1,0 +1,44 @@
+TEST EXECUTION REPORT – SELENIUM LOGIN AUTOMATION
+
+Project Title: Selenium Login Automation
+Internship Task: Task 1 – Test Automation Using Selenium
+Tool Used: Selenium WebDriver
+Language: Python
+Browser: Google Chrome
+
+Test Objective:
+To automate the login and logout functionality of a sample web application.
+
+Test Website:
+https://practicetestautomation.com/practice-test-login/
+
+Test Data:
+Username: student
+Password: Password123
+
+Test Steps:
+
+1. Launched Chrome browser
+2. Navigated to login page
+3. Entered username
+4. Entered password
+5. Clicked login button
+6. Verified successful login
+7. Captured screenshots
+8. Performed logout
+9. Closed browser
+
+Expected Result:
+User should login and logout successfully.
+
+Actual Result:
+User logged in and logged out successfully.
+
+Status:
+PASS
+
+Evidence:
+Screenshots captured during execution and stored in Screenshots folder.
+
+Conclusion:
+Automation script executed successfully and login flow is working as expected.
