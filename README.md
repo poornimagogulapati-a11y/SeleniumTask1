@@ -1,61 +1,81 @@
-# Selenium Task 1 – Login Automation
+CODTECH Internship Task-1  
+Automated Login Test using Selenium  
 
-## 📌 Project Description
+Company: CODTECH IT SOLUTIONS  
+Intern Name:GOGULAPATI LAKSHMI POORNIMA 
+Intern ID: CTIS5653 
+Domain: Software Testing  
+Duration: 4 Weeks  
+Mentor: NEELA SANTOSH
 
-This project demonstrates automated testing of a web application login and logout functionality using Selenium WebDriver with Python.
+------------------------------------------------------------
 
-## 🛠 Tools Used
+Objective  
 
-* Python
-* Selenium WebDriver
-* Chrome Browser
-* VS Code
+The objective of this project is to automate the login functionality of a web application using Selenium WebDriver with Python. The automation script verifies successful login and logout operations.
 
-## 🌐 Application Under Test
+------------------------------------------------------------
 
-https://practicetestautomation.com/practice-test-login/
+Description  
 
-## 🔐 Test Credentials
+This project uses Selenium WebDriver to automate the login process of a practice web application. The script opens the browser, enters valid credentials, performs login, verifies successful login, and logs out. Screenshots are captured as proof of execution.
 
-Username: student
-Password: Password123
+------------------------------------------------------------
 
-## ▶️ Test Steps Automated
+Tools Used  
 
-1. Open Chrome browser
-2. Navigate to login page
-3. Enter username
-4. Enter password
-5. Click login button
-6. Capture screenshots
-7. Verify login success
-8. Perform logout
-9. Close browser
+Python  
+Selenium WebDriver  
+Chrome Browser  
 
-## 📂 Project Structure
+------------------------------------------------------------
 
-* test_login.py → Selenium automation script
-* test_execution_report.txt → Test report
-* Screenshots → Execution proof images
+Test Steps  
 
-## ▶️ How to Run
+1. Launch Chrome browser  
+2. Navigate to login page  
+3. Enter username and password  
+4. Click on login button  
+5. Verify successful login  
+6. Capture screenshots  
+7. Logout from application  
+8. Close browser  
 
-Open terminal in project folder and run:
+------------------------------------------------------------
 
-python test_login.py
+How to Run  
 
-## 📸 Screenshots
+1. Install Python and Selenium  
+2. Download ChromeDriver  
+3. Run the script using:  
+   python test_login.py  
 
-## 📸 Screenshots
+------------------------------------------------------------
 
-## 📸 Screenshots
+Files in Repository  
 
-![Step1](login_success.png)
-![Step2](login_success2.png)
-![Step3](login_success3.png)
-## ✅ Result
+test_login.py  
+test_execution_report.txt  
+login_success.png  
+login_success2.png  
+login_success3.png  
+README.md  
 
-The automation test executed successfully. Login and logout flow works correctly.
+------------------------------------------------------------
 
+Proof of Execution  
 
+Login Screenshot 1  
+![Login Screenshot 1](login_success.png)
 
+Login Screenshot 2  
+![Login Screenshot 2](login_success2.png)
+
+Login Screenshot 3  
+![Login Screenshot 3](login_success3.png)
+
+------------------------------------------------------------
+
+Conclusion  
+
+The Selenium automation script successfully executed the login and logout process. All steps were completed as expected and documented with screenshots.
