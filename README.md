@@ -2,9 +2,9 @@ CODTECH Internship Task-1
 Automated Login Test using Selenium  
 
 Company: CODTECH IT SOLUTIONS  
-Intern Name:GOGULAPATI LAKSHMI POORNIMA 
-Intern ID: CTIS5653 
-Domain: Software Testing  
+Intern Name:GOGULAPATI LAKSHMI POORNIMA        
+Intern ID: CTIS5653                 
+Domain: Software Testing                
 Duration: 4 Weeks  
 Mentor: NEELA SANTOSH
 
@@ -79,3 +79,4 @@ Login Screenshot 3
 Conclusion  
 
 The Selenium automation script successfully executed the login and logout process. All steps were completed as expected and documented with screenshots.
+
